@@ -30,18 +30,23 @@ I'm **Yurra**, an independent developer and creator focused on building digital 
 
 I enjoy turning ideas into practical digital experiences — combining **development, creativity, experimentation, and community**.
 
-```text
-Yurra
-├── 🌐 Web Development
-├── 🎮 Roblox Development
-├── 🛠️ Digital Projects
-├── 🎨 Creative Experiments
-└── 👥 Community Projects
-```
+**What I work on:**
+
+- 🌐 Web Development
+- 🎮 Roblox Development
+- 🛠️ Digital Projects
+- 🎨 Creative Experiments
+- 👥 Community Projects
+
+---
 
 ## 🚀 What I Build
-<table> <tr> <td width="50%">
-🌐 Web Development
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
 
 Creating modern websites, digital platforms, landing pages, and interactive web experiences.
 
@@ -51,8 +56,12 @@ Creating modern websites, digital platforms, landing pages, and interactive web 
 - Interactive Websites
 - Personal Platforms
 - Web Experiments
-</td> <td width="50%">
-🎮 Roblox Development
+
+</td>
+
+<td width="50%">
+
+### 🎮 Roblox Development
 
 Building Roblox experiences, systems, environments, and community-focused projects.
 
@@ -62,8 +71,14 @@ Building Roblox experiences, systems, environments, and community-focused projec
 - Game Systems
 - Map Development
 - Community Features
-</td> </tr> <tr> <td width="50%">
-🛠️ Digital Projects
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛠️ Digital Projects
 
 Exploring tools, automation, interfaces, and custom digital solutions.
 
@@ -73,8 +88,12 @@ Exploring tools, automation, interfaces, and custom digital solutions.
 - UI / UX
 - Digital Experiments
 - Custom Solutions
-</td> <td width="50%">
-👥 Community Projects
+
+</td>
+
+<td width="50%">
+
+### 👥 Community Projects
 
 Creating and maintaining digital communities around projects and shared interests.
 
@@ -84,73 +103,121 @@ Creating and maintaining digital communities around projects and shared interest
 - Events
 - Documentation
 - Collaboration
-</td> </tr> </table>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💻 Tech Stack
 
-**Languages**
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,lua" /> </p>
+### Languages
 
-**Tools & Platforms**
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,robloxstudio" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,lua" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,discord,robloxstudio" />
+</p>
+
+---
 
 ## ⭐ Featured Projects
 
-**🎮 Mount Sumbing**
+### 🎮 Mount Sumbing
 
 A community-focused Roblox experience built around exploration, gameplay systems, events, and an evolving player community.
 
-**Focus** : Roblox Development · Map Development · Community
+**Focus:** Roblox Development · Map Development · Community
 
-## 🌐 imyurra.com
+---
+
+### 🌐 imyurra.com
 
 A personal web platform for showcasing projects, creative work, experiments, and developer activities.
 
-**Focus** : Web Development · UI/UX · Digital Platform
+**Focus:** Web Development · UI/UX · Digital Platform
 
-🔗 Visit imyurra.com
+🔗 **[Visit imyurra.com](https://imyurra.com)**
 
-## 🏗️ Yurra Production
+---
+
+### 🏗️ Yurra Production
 
 An independent development and creative ecosystem focused on Roblox Development, Web Development, digital projects, and community activities.
 
-**Focus** : Development · Roblox · Web · Community
+**Focus:** Development · Roblox · Web · Community
+
+---
 
 ## 🔭 Currently Building
 
-🚧 **Yurra Production**
+### 🚧 Yurra Production
 
-   └─ Digital development & community ecosystem
+Digital development & community ecosystem.
 
-🎮 **Roblox Projects**
+### 🎮 Roblox Projects
 
-   └─ Experiences, maps, systems & community features
+Experiences, maps, systems & community features.
 
-🌐 **Web Projects**
+### 🌐 Web Projects
 
-   └─ Websites, tools & experimental interfaces
+Websites, tools & experimental interfaces.
 
-🧪 **New Ideas**
+### 🧪 New Ideas
 
-   └─ Exploring new technologies and creative concepts
+Exploring new technologies and creative concepts.
 
-## 📊 GitHub
+---
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imyurra-web&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyurra-web&layout=compact&hide_border=true&theme=transparent" /> </div>
+## 📊 GitHub Activity
 
-## 📈 Contribution Activity
+> Building, experimenting, learning, and documenting projects along the way.
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyurra-web&hide_border=true&theme=transparent" /> </div>
+<div align="center">
 
-## 🌐 Connect
-
-<div align="center"> <a href="https://imyurra.com"> <img src="https://img.shields.io/badge/Website-imyurra.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://instagram.com/yurra.production"> <img src="https://img.shields.io/badge/Instagram-%40yurra.production-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/imyurra-web"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
-Let's build something meaningful.
-
-Explore • Create • Develop. 🚀
+🌐 **Web Development**  
+🎮 **Roblox Development**  
+🛠️ **Digital Projects**  
+🎨 **Creative Experiments**  
+👥 **Community Projects**
 
 <br>
 
-<sub>© Yurra · Independent Developer</sub>
+**Explore • Create • Develop. 🚀**
 
-</div> ```
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://imyurra.com">
+  <img src="https://img.shields.io/badge/Website-imyurra.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/yurra.production">
+  <img src="https://img.shields.io/badge/Instagram-%40yurra.production-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/imyurra-web">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### Let's build something meaningful.
+
+**Explore • Create • Develop. 🚀**
+
+<br>
+
+<sub>© Yurra Production · Independent Developer</sub>
+
+</div>
