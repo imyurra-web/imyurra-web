@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./ChatGPT Image Sep 28, 2026, 04_46_02 PM.png" width="100%" alt="Yurra Production Banner" />
+<img src="./Yurra Productions.png" width="100%" alt="Yurra Production Banner" />
 
 </div>
 
